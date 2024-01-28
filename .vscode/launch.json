@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Chat",
+            "request": "launch",
+            "mainClass": "Stoichiometry.Chat",
+            "projectName": "Balance_92c7f1b3"
+        },
+        {
+            "type": "java",
+            "name": "ElementInputGUI",
+            "request": "launch",
+            "mainClass": "Stoichiometry.ElementInputGUI",
+            "projectName": "Balance_92c7f1b3"
+        },
+        {
+            "type": "java",
+            "name": "GPACalculator",
+            "request": "launch",
+            "mainClass": "Stoichiometry.GPA.GPACalculator",
+            "projectName": "Balance_92c7f1b3"
+        },
+        {
+            "type": "java",
+            "name": "Snowman",
+            "request": "launch",
+            "mainClass": "Stoichiometry.Snow.Snowman",
+            "projectName": "Balance_92c7f1b3"
+        }
+    ]
+}
